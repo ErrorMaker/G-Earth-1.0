@@ -1,3 +1,4 @@
+# ALL CREDIT GOES TO https://github.com/sirjonasxx
 # G-Earth
 Habbo packet logger & manipulator for Windows, Linux and Mac.
 
